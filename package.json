@@ -1,6 +1,6 @@
 {
   "name": "waveform-path",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generator waveform paths for SVG",
   "main": "dist/waveform-path.min.js",
   "scripts": {

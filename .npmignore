@@ -2,4 +2,11 @@
 node_modules/
 docs/
 src/
+
+# Files
 gulpfile.js
+.eslintignore
+.eslintrc.js
+.prettierignore
+.prettierrc.js
+tsconfig.json
